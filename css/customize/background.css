@@ -6,5 +6,5 @@
 	/* Firefox 3.6 - 15 */
 	background: -moz-linear-gradient(right, red, blue);
 	/* 标准的语法 */
-	background: linear-gradient(to right, red, blue);
+	background: linear-gradient(to right, rgb(255,0,0,0.2), blue);
 }
