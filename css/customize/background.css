@@ -1,4 +1,4 @@
-#body-wrap{
+#footer-wrap{
 	/* webkit内核 5.1 - 6.0 */
 	background: -webkit-linear-gradient(left, rgba(0,255,0,0.5), yellow);
 	/* Opera 11.1 - 12.0 */
@@ -9,7 +9,7 @@
 	background: linear-gradient(to right, rgba(0,255,0,0.5), yellow);
 }
 
-#footer-wrap{
+#body-wrap{
 	background: -webkit-linear-gradient(
 	  	0deg,
 		rgba(247, 149, 51, 0.1) 0,
